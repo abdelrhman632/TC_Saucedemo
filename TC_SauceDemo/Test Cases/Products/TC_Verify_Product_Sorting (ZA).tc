@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Verify_Product_Sorting (ZA)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b576f07b-6bd4-479d-9839-1cfe65fba395</testCaseGuid>
+</TestCaseEntity>
